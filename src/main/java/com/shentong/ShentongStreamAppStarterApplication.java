@@ -13,4 +13,8 @@ public class ShentongStreamAppStarterApplication {
 	public String testCount() {
 		return null;
 	}
+	
+	public void test(){
+	
+	}
 }
