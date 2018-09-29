@@ -9,4 +9,8 @@ public class ShentongStreamAppStarterApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(ShentongStreamAppStarterApplication.class, args);
 	}
+	
+	public String testCount() {
+		return null;
+	}
 }
